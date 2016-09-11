@@ -1,0 +1,13 @@
+*.suo
+*.user
+
+.vs
+*ide
+
+*\packages
+*\bin
+*\obj
+*\csx
+
+_ReShaper.*
+*.resharper
